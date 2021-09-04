@@ -5,4 +5,4 @@ int anum = 10;
 	float afloat = 1.32;
 	
 	System.out.println(anum;achar;afloat);
-}
+}}}
